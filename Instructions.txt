@@ -1,0 +1,1 @@
+This repo is only for me, i'll use it to get familiar with git operatios
